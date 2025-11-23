@@ -1,0 +1,29 @@
+
+{
+  "year": 2025,
+  "months": {
+    "November": [
+      {
+        "date": "2025-11-01",
+        "hindiDate": "Kartik Shukla Ekadashi",
+        "dailyTip": "Offer Tulsi leaves to Lord Vishnu today for prosperity.",
+        "fastingInfo": "Dev Uthani Ekadashi Vrat",
+        "specialYogas": ["Sarvartha Siddhi Yoga", "Amrit Siddhi Yoga"]
+      },
+      {
+        "date": "2025-11-05",
+        "hindiDate": "Kartik Purnima",
+        "dailyTip": "Bathing in holy rivers today washes away sins.",
+        "fastingInfo": "Purnima Vrat / Satyanarayan Puja",
+        "specialYogas": ["Tripushkar Yoga"]
+      },
+      {
+        "date": "2025-11-14",
+        "hindiDate": "Margashirsha Krishna Dashami",
+        "dailyTip": "Feed cows with jaggery and roti.",
+        "fastingInfo": "No major fast",
+        "specialYogas": []
+      }
+    ]
+  }
+}

@@ -1,0 +1,47 @@
+
+{
+  "yogas": [
+    {
+      "name": "Gajakesari Yoga",
+      "type": "Raj Yoga",
+      "requiredPlanets": ["Jupiter", "Moon"],
+      "condition": "Jupiter is in a Kendra (1, 4, 7, 10) from Moon.",
+      "result": "Grants wisdom, wealth, and a virtuous reputation. You will be capable of overpowering enemies and rising to high positions."
+    },
+    {
+      "name": "Budhaditya Yoga",
+      "type": "Raj Yoga",
+      "requiredPlanets": ["Sun", "Mercury"],
+      "condition": "Sun and Mercury are conjoined in the same house.",
+      "result": "Creates high intelligence, skill in administration, and good reputation in professional life."
+    },
+    {
+      "name": "Dhana Yoga (2-11 Connection)",
+      "type": "Dhana Yoga",
+      "requiredPlanets": ["Jupiter", "Venus"],
+      "condition": "Lords of 2nd and 11th houses are connected.",
+      "result": "Indicates immense wealth accumulation and multiple sources of income throughout life."
+    },
+    {
+      "name": "Pancha Mahapurusha (Hamsa)",
+      "type": "Raj Yoga",
+      "requiredPlanets": ["Jupiter"],
+      "condition": "Jupiter in own sign or exalted in a Kendra house.",
+      "result": "Makes the person religious, highly respected, and pure in heart. Success in education or law."
+    }
+  ],
+  "planetaryEffects": {
+    "Sun": {
+      "1": "Leadership qualities, ego, strong vitality.",
+      "10": "Career success, government favor, authority."
+    },
+    "Moon": {
+      "1": "Emotional sensitivity, fluctuating moods, caring nature.",
+      "4": "Happiness from mother, vehicles, and home."
+    },
+    "Saturn": {
+      "10": "Hard work leads to high status. Success comes late but stays.",
+      "7": "Delayed marriage or mature partner. Dutiful relationships."
+    }
+  }
+}

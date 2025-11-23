@@ -1,0 +1,96 @@
+
+import { LalaRamswaroopCalendar } from '../types';
+
+export const LALA_RAMSWAROOP_DATA: LalaRamswaroopCalendar = {
+  year: 2025,
+  months: {
+    "November": [
+      {
+        date: "2025-11-01",
+        tithi: "Ekadashi",
+        paksha: "Shukla",
+        nakshatra: "Purva Bhadrapada",
+        yoga: "Vajra",
+        karan: "Bava",
+        sunrise: "06:35 AM",
+        sunset: "05:40 PM",
+        moonrise: "02:15 PM",
+        moonset: "02:30 AM",
+        rahukaal: "09:00 AM - 10:30 AM",
+        festivals: [
+          {
+            name: "Dev Uthani Ekadashi",
+            religion: "Hindu",
+            significance: "End of Chaturmas, beginning of wedding season",
+            type: "Major"
+          }
+        ],
+        muhurats: [
+          {
+            purpose: "Wedding",
+            startTime: "06:45 PM",
+            endTime: "11:00 PM",
+            quality: "Excellent"
+          }
+        ]
+      },
+      {
+        date: "2025-11-05",
+        tithi: "Purnima",
+        paksha: "Shukla",
+        nakshatra: "Ashwini",
+        yoga: "Siddhi",
+        karan: "Kaulava",
+        sunrise: "06:38 AM",
+        sunset: "05:38 PM",
+        moonrise: "05:45 PM",
+        moonset: "06:15 AM",
+        rahukaal: "07:30 AM - 09:00 AM",
+        festivals: [
+          {
+            name: "Kartik Purnima",
+            religion: "Hindu",
+            significance: "Festival of lights for the gods",
+            type: "Major"
+          },
+           {
+            name: "Guru Nanak Jayanti",
+            religion: "Sikhism",
+            significance: "Birth of first Sikh Guru",
+            type: "Major"
+          }
+        ],
+        muhurats: [
+          {
+            purpose: "Business",
+            startTime: "10:15 AM",
+            endTime: "11:45 AM",
+            quality: "Good"
+          }
+        ]
+      },
+      {
+        date: "2025-11-14",
+        tithi: "Dashami",
+        paksha: "Krishna",
+        nakshatra: "Uttara Phalguni",
+        yoga: "Variyan",
+        karan: "Taitila",
+        sunrise: "06:45 AM",
+        sunset: "05:32 PM",
+        moonrise: "01:20 AM",
+        moonset: "01:45 PM",
+        rahukaal: "10:30 AM - 12:00 PM",
+        festivals: [],
+        muhurats: [
+           {
+            purpose: "Travel",
+            startTime: "02:00 PM",
+            endTime: "04:00 PM",
+            quality: "Average"
+          }
+        ]
+      }
+    ]
+  }
+};
